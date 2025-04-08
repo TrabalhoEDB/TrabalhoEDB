@@ -1,16 +1,21 @@
-## Hi there 👋
+**Trabalho em grupo do Trabalho do CSV**
 
-<!--
-**TrabalhoEDB/TrabalhoEDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Quanto vale: 2,5 pontos<br/>
+Quantas pessoas: 5<br/>
+Oq deve ter: <br/>
+  1 Arquivo .h<br/>
+  1 Trecho "main" para colocar no SWITH<br/>
+  1 Arquivo CSV da sua pergunta<br/>
+Como assim "main":<br/>
+  Vc deverá fazer um trecho "main" (o que deve chamar as<br/>
+  funções) e fazer um SWITH para si para assim ser mais <br/>
+  interativo<br/>
+  Ex.: Eu fiquei com a questão 2<br/>
+  **swith(opção){<br/>
+  ...<br/>
+  case 2:<br/>
+  a chamada da minha função;<br/>
+  break;<br/>
+  ...<br/>
+  }**<br/>
+  
